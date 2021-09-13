@@ -1,4 +1,4 @@
-class ZTB_GITCDSVIEWTEST definition
+class ZTB_GITCDSVIEWTESTT definition
   public
   final
   create public .
