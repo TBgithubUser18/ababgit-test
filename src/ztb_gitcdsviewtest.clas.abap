@@ -1,14 +1,14 @@
-class ZTB_GITCDSVIEWTEST definition
-  public
-  final
-  create public .
+CLASS ztb_gitcdsviewtest DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS ZTB_GITCDSVIEWTEST IMPLEMENTATION.
+CLASS ztb_gitcdsviewtest IMPLEMENTATION.
 ENDCLASS.
