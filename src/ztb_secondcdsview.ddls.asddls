@@ -29,5 +29,5 @@ zlk_capex.z_roi as ROI,
 @DefaultAggregation: #SUM
 zlk_capex.z_revenue as Revenue
 
-//Changes to my CDS View
+//Changes to my CDS View for Arndt
 }
